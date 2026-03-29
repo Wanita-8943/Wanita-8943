@@ -14,12 +14,13 @@
 
 <p>
 <strong>Human Age Estimation using Deep Learning</strong><br>
-- Predict age from Panoramic Radiographs Images<br>
-- Built with Python and TensorFlow<br>
-- Honorable Mention - NSC 2023<br><br>
-<a href="https://wanita-8943.github.io/Human_Age_Estimation_Through_Panoramic_Radiographs_Images_With_Deep_Neural_Network/">Demo</a> |
-<a href="https://github.com/Wanita-8943/2WebApp">Code</a>
-  
+- Developed a model to estimate age from panoramic radiographic images<br>
+- Implemented using Python and TensorFlow<br>
+- Honorable Mention, NSC 2023<br><br>
+<a href="https://wanita-8943.github.io/Human_Age_Estimation_Through_Panoramic_Radiographs_Images_With_Deep_Neural_Network/">WebPage</a> |
+<a href="https://github.com/Wanita-8943/2WebApp">WebApp</a> |
+<a href="https://github.com/Wanita-8943/efficientnet_keras_transfer_learning?tab=readme-ov-file#my-main-project">Training</a>
+
 </p>
 
 ---
