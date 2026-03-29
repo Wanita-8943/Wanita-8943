@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nita (Wanita Somdej)</h1>
-<h3 align="center">Data Analyst | Data Entry</h3>
+<h3 align="center">Data Analyst | Data Entry | Data Annotation</h3>
 
 <p align="center">
   Graduate in Statistics Informationfrom Khon Kaen University, with an interest in data-driven solutions and machine learning.
