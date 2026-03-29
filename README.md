@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nita Wanita Somdej</h1>
-<h3 align="center">Data Analyst | Data Entry
+<h3 align="center">Data Analyst | Data Entry</h3>
 
 <p align="center">
   Graduate in Statistics Informationfrom Khon Kaen University, with an interest in data-driven solutions and machine learning.
@@ -30,9 +30,9 @@
   <a href="https://flask.palletsprojects.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" width="40"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40"/>
+</a>
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   </a>
@@ -56,7 +56,7 @@
 <h3 align="left">Connect</h3>
 
 <p align="left">
-<a href="https://www.facebook.com/wanita.somdej.2025/about" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+<a href="https://www.facebook.com/wanita.somdej.2025/about" target="_blank">
+  <img src="https://cdn.simpleicons.org/facebook" width="30"/>
 </a>
 </p>
