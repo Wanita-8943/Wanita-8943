@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nita Wanita Somdej</h1>
+<h1 align="center">Hi, I'm Nita (Wanita Somdej)</h1>
 <h3 align="center">Data Analyst | Data Entry</h3>
 
 <p align="center">
@@ -33,9 +33,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40"/>
 </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  </a>
+<a href="https://www.python.org" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40"/>
+</a>
   <a href="https://www.tensorflow.org" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
   </a>
